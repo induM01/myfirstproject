@@ -2,6 +2,12 @@ welcome to python
 
 Welcome program
 python is very easy
-
+1
+2
+3
+6
+98
+5555
+78952
 
 thank you
